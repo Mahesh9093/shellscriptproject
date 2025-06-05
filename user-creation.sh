@@ -1,6 +1,6 @@
 #!/bin/bash
 #user creation shell script 
-# Input from user to check the user avalible or not
+# Input from user to check the user avaliable or not
 read -p "Enter username: " username
 read -p "Enter password: " password
 echo "Password: $password"
